@@ -28,7 +28,8 @@
         "custom": {
           "regex": "^I[A-Z]",
           "match": true
-        }
+        },
+        "endOfLine": "auto"
       }
     ],
     "class-methods-use-this": "off",
